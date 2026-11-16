@@ -1,0 +1,6 @@
+transformers
+sentence-transformers
+scikit-learn==1.6.1
+joblib
+accelerate
+gradio==5.29.0
